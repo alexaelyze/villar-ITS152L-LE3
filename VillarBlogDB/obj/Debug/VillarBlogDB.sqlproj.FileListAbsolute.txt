@@ -1,0 +1,10 @@
+C:\Users\Alexa\source\repos\VillarLE2\VillarBlogDB\bin\Debug\VillarBlogDB.dacpac
+C:\Users\Alexa\source\repos\VillarLE2\VillarBlogDB\bin\Debug\VillarBlogDB.dll
+C:\Users\Alexa\source\repos\VillarLE2\VillarBlogDB\bin\Debug\VillarBlogDB.pdb
+C:\Users\Alexa\source\repos\VillarLE2\VillarBlogDB\obj\Debug\VillarBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\Alexa\source\repos\VillarLE2\VillarBlogDB\obj\Debug\Model.xml
+C:\Users\Alexa\source\repos\VillarLE2\VillarBlogDB\obj\Debug\refactor.xml
+C:\Users\Alexa\source\repos\VillarLE2\VillarBlogDB\obj\Debug\postdeploy.sql
+C:\Users\Alexa\source\repos\VillarLE2\VillarBlogDB\obj\Debug\predeploy.sql
+C:\Users\Alexa\source\repos\VillarLE2\VillarBlogDB\obj\Debug\VillarBlogDB.dll
+C:\Users\Alexa\source\repos\VillarLE2\VillarBlogDB\obj\Debug\VillarBlogDB.pdb
